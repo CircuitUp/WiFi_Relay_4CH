@@ -1,5 +1,5 @@
 # WiFi Relay board 4CH
-This is a simple WiFi enabled 4 CH relay card for Home automation and any other WiFi projects.
+This is a simple WiFi enabled 4 CH relay card for Home automation and any other WiFi projects. Based on ESP8266. 
 
 ### Specification
 * Input               : 100-240V AC 50-60 Hz
